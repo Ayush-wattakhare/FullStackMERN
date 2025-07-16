@@ -36,7 +36,7 @@ Built a responsive **Landing Page** for a challenge tracker:
 - About section using Flexbox
 - Clean, mobile-friendly UI
 
-📄 Check out the code: [`day3.html`](./day3.html)  
+📄 Check out the code: [`Banner.html`](./day3.html)  
 📷 View the project screenshot in `/screenshots/day3.png` (optional)
 
 ---
