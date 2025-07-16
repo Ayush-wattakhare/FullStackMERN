@@ -13,7 +13,7 @@ This is part of my **#100DaysOfLearning** challenge where I commit to learning a
 |-----|-------|-------------|
 | 1   | HTML Basics | Learned semantic HTML, tags, forms, structure |
 | 2   | CSS Fundamentals | Learned selectors, box model, positions |
-| 3   | Bootstrap + Flexbox | Built a responsive landing page ([View Code](./day3.html)) |
+| 3   | Bootstrap + Flexbox | Built a responsive landing page ([View Code](./Banner.html)) |
 
 ---
 
